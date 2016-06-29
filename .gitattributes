@@ -3,3 +3,4 @@ accton_wedge40/kernel_3.18.25/flexswitch_accton_wedge40-1.0.0.113_amd64.deb filt
 celestica_redstone/kernel_3.16.0-29/flexswitch_cel_redstone-1.0.0.113_amd64.deb filter=lfs diff=lfs merge=lfs -text
 accton_as5712/onie/ONL-2.0.0_ONL-OS_JESSIE_3.2-65_MOD_AMD64_INSTALLER filter=lfs diff=lfs merge=lfs -text
 accton_wedge40/onie/ONL-2.0.0_ONL-OS_JESSIE_3.18-25_WEDGE_AMD64_INSTALLER filter=lfs diff=lfs merge=lfs -text
+celestica_redstone/onie/onie-installer-x86_64-cel_redstone_xp_snapbase_v3 filter=lfs diff=lfs merge=lfs -text
