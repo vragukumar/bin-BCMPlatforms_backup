@@ -6,7 +6,7 @@ This repository contains debian packages and other binaries for various white bo
 
 Instructions on how to get Vagrant box up with FlexSwitch package:
 
-Download this files "snaproute.box" and "VagrantFile" from [Github OpenSnapRoute Vagrant] (https://github.com/OpenSnapRoute/binaries/vagrant "Vagrant").  
+Download this files "snaproute.box" and "VagrantFile" from [Github OpenSnapRoute Vagrant] (https://github.com/OpenSnaproute/binaries/tree/master/vagrant "Vagrant").  
 
 1. Make folder to store images:
    mkdir srBox; cd srBox
