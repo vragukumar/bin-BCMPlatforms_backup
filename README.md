@@ -1,6 +1,6 @@
 # Binary packages for BCM device based platforms 
 
-This repository contains debian packages and other binaries for various white boxes that we have tested
+This repository contains onie installer images, FlexSwitch debian packages and vagrant boxes for various BCM device based white boxes that we have tested
 
 # Vagrant
 
